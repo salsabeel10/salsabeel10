@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salsabeel ibrahim
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning pthon
-- 💞️ I’m looking to collaborate on python developers
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on FullStack developers
 - 📫 How to reach me salsabeelibrahim327@gmail.com
 
 <!---
