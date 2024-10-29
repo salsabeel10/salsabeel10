@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @salsabeel ibrahim
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m Software Engineer and Web Developer
 - 💞️ I’m looking to collaborate on FullStack developers
 - 📫 How to reach me salsabeelibrahim14@gmail.com
 
