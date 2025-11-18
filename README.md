@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @salsabeel ibrahim
-- 👀 I’m Software Engineer and Web Developer
-- 💞️ I’m looking to collaborate on FullStack developers
-- 📫 How to reach me salsabeelibrahim14@gmail.com
+### 👋 Hi, I'm Salsabeel Ibrahim
 
-<!---
-salsabeel10/salsabeel10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Software Engineer and Web Developer focused on building clean, reliable, and user-friendly applications.  
+I enjoy turning ideas into functional, well-designed products.
+
+### 🔧 What I Do
+- Full-Stack Web Development  
+- Frontend Engineering (React, Tailwind, JavaScript)  
+- Backend APIs & scalable systems
+
+### 🤝 Looking to Collaborate On
+Projects involving frontend, backend, or full-stack development — especially those that challenge me to learn and build better.
+
+### 📫 Reach Me At
+**salsabeelibrahim14@gmail.com**
+
+### 🌐 Portfolio
+https://salsabeelibrahim.com
